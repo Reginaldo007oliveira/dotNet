@@ -1,0 +1,14 @@
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\bin\Debug\net8.0\visualnoise.exe
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\bin\Debug\net8.0\visualnoise.deps.json
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\bin\Debug\net8.0\visualnoise.runtimeconfig.json
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\bin\Debug\net8.0\visualnoise.dll
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\bin\Debug\net8.0\visualnoise.pdb
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.AssemblyInfoInputs.cache
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.AssemblyInfo.cs
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.csproj.CoreCompileInputs.cache
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.dll
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\refint\visualnoise.dll
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.pdb
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.genruntimeconfig.cache
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\ref\visualnoise.dll
