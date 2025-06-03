@@ -12,3 +12,4 @@ C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Deb
 C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.pdb
 C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.genruntimeconfig.cache
 C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\ref\visualnoise.dll
+C:\Users\regin\OneDrive\Área de Trabalho\LadingPage\.vscode\visualnoise\obj\Debug\net8.0\visualnoise.sourcelink.json
