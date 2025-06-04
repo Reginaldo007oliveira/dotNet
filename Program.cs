@@ -12,6 +12,11 @@ while (contador <= 10)
 {
     // Print the multiplication of 'numero' by 'contador' in a formatted string
     Console.WriteLine($"{contador}º  Execuções {numero} * {contador} = {numero * contador}");
-     // se não colocar o contador no while o programa entra em loop infinito
+    // se não colocar o contador no while o programa entra em loop infinito
     contador++;
+//O break serve para quebrar uma condição
+    if (contador == 6)
+    {
+        break;
+    }
 }
