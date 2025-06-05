@@ -4,15 +4,35 @@
 Console.WriteLine("Hello, World!");
 
 // Declare an integer variable 'numero' and assign it the value 75
-int soma = 0, numero = 0;
-
-do
+string opcao;
+bool exibirMenu = true;
+while (exibirMenu)
 {
-    Console.WriteLine("Digite um numero");
-   numero = Convert.ToInt32(Console.ReadLine());
-    soma += numero;
+    Console.WriteLine("Digite a sua opção");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar clente");
+    Console.WriteLine("4 - Encerrar");
+     opcao = Console.ReadLine();
+
+    switch (opcao)
+    {
+        case "1":
+            Console.WriteLine("Digite o nome do cliente");
+            break;
+        case "2":
+            Console.WriteLine("Busca eficiente");
+            break;
+        case "3":
+            Console.WriteLine("Apagar cliente");
+            break;
+        case "4":
+            Console.WriteLine("Encerrar");
+            break;
+        default:
+            Console.WriteLine("Opção inválida");
+              break;
+
+    }
+
 }
-
-while (numero != 0);
-
-Console.WriteLine($"Total da soma dos números é:{soma}", "viu");
