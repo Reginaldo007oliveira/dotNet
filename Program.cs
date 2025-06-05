@@ -32,7 +32,7 @@ while (exibirMenu)
             break;
         case "4":
             Console.WriteLine("Encerrar");
-             Environment.Exit(0); //encerra o meu programa, quebra o loop
+             exibirMenu = false;
             break;
            
         default:
